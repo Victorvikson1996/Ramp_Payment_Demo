@@ -14,6 +14,6 @@ Install: `yarn` or `yarn install`
 Run Project Locally: `npx react-native run-ios`
 
 <p float="left">
-  <img src="screenshots/Button.PNG?raw=true" width="360" />
-  <img src="screenshots/send.PNG?raw=true" width="360" />
+  <img src="screenshots/Button.png?raw=true" width="360" />
+  <img src="screenshots/send.png?raw=true" width="360" />
 </p>
