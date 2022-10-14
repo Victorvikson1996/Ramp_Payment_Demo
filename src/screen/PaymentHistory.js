@@ -1,7 +1,10 @@
 import {StyleSheet, Text, View} from 'react-native';
-import React from 'react';
+
+import React, {useEffect, useState} from 'react';
 
 const PaymentHistory = () => {
+  const [data, setData] = useState([]);
+  const [loading, setLoading] = useState(true);
   return (
     <View style={styles.container}>
       <Text>PaymentHistory</Text>
